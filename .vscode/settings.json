@@ -9,5 +9,6 @@
     "editor.codeActionsOnSave": {
         "source.fixAll": true,
         "source.organizeImports": true,
-    }
+    },
+    "cmake.sourceDirectory": "/Users/beyzaevcen/Desktop/flutter vscode projects/to_do/linux"
 }
